@@ -305,6 +305,10 @@ footer p {
     .page-header {
         margin: 0 2% 0 0;
     }
+    .logo img {
+	    width: 20%;
+	    heigth: 20%;
+	    }
     * {
         box-sizing: border-box;
         margin: 0;

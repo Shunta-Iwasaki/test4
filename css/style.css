@@ -307,7 +307,7 @@ footer p {
     }
     .page-header img {
 	    width: 20%;
-	    heigth 20%;
+	    heigth: 20%;
 	    }
     * {
         box-sizing: border-box;
